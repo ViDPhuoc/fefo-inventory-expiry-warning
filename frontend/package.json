@@ -1,0 +1,24 @@
+{
+  "name": "fefo-inventory-expiry-warning",
+  "version": "1.0.0",
+  "description": "React interface for batch inventory, FEFO allocation and expiry-risk alerts",
+  "scripts": {
+    "dev": "vite --host 127.0.0.1",
+    "build": "vite build",
+    "preview": "vite preview --host 127.0.0.1"
+  },
+  "keywords": [],
+  "author": "Vo Duy Phuoc",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "@vitejs/plugin-react": "6.1.1",
+    "react": "19.2.8",
+    "react-dom": "19.2.8",
+    "vite": "8.2.2"
+  },
+  "private": true,
+  "devDependencies": {
+    "prettier": "3.9.6"
+  }
+}

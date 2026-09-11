@@ -1,0 +1,38 @@
+/* Chỉ áp dụng cho màn bán hàng, không đổi màu hoặc bố cục Manager. */
+.sale-code-search {
+  display: flex;
+  gap: 10px;
+  align-items: end;
+}
+.sale-code-search label {
+  flex: 1;
+  min-width: 0;
+}
+.sale-code-search button {
+  flex: 0 0 auto;
+}
+.sale-receipt .sale-price-original {
+  color: #174da6;
+  font-weight: 700;
+  margin: 12px 0 4px;
+}
+.sale-receipt .sale-price-discount {
+  color: #a83212;
+  background: #fff0e5;
+  padding: 4px 9px;
+  border-radius: 5px;
+  font-weight: 700;
+  display: inline-block;
+  margin: 0 0 4px;
+}
+.sale-receipt .sale-price-payable {
+  color: #146b45;
+  font-weight: 700;
+  margin: 2px 0 6px;
+}
+@media (max-width: 600px) {
+  .sale-code-search {
+    flex-direction: column;
+    align-items: stretch;
+  }
+}

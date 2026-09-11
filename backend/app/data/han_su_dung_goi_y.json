@@ -1,0 +1,485 @@
+{
+  "ghi_chu": "Thời hạn giả định phục vụ bài mô phỏng, tính từ ngày sản xuất; HSD trên bao bì là căn cứ khi nhập thực tế. Không lấy ngưỡng cảnh báo làm thời hạn bảo quản.",
+  "san_pham": {
+    "SP0001": {
+      "ten_sp": "Sữa tươi nguyên kem 180 ml",
+      "so_ngay": 30
+    },
+    "SP0002": {
+      "ten_sp": "Sữa tươi ít đường 180 ml",
+      "so_ngay": 30
+    },
+    "SP0003": {
+      "ten_sp": "Sữa chua có đường 100 g",
+      "so_ngay": 30
+    },
+    "SP0004": {
+      "ten_sp": "Sữa chua uống dâu 180 ml",
+      "so_ngay": 30
+    },
+    "SP0005": {
+      "ten_sp": "Sữa tươi không đường 180 ml",
+      "so_ngay": 30
+    },
+    "SP0006": {
+      "ten_sp": "Sữa tươi nguyên kem — 200 ml",
+      "so_ngay": 30
+    },
+    "SP0007": {
+      "ten_sp": "Bánh mì sandwich — gói nhỏ",
+      "so_ngay": 7
+    },
+    "SP0008": {
+      "ten_sp": "Nước suối — 250 ml",
+      "so_ngay": 180
+    },
+    "SP0009": {
+      "ten_sp": "Cá ngừ đóng hộp — 150 g",
+      "so_ngay": 365
+    },
+    "SP0010": {
+      "ten_sp": "Rau cải — 200 g",
+      "so_ngay": 10
+    },
+    "SP0011": {
+      "ten_sp": "Sữa tươi ít đường — 200 ml",
+      "so_ngay": 30
+    },
+    "SP0012": {
+      "ten_sp": "Bánh mì Thổ Nhĩ Kỳ — gói nhỏ",
+      "so_ngay": 7
+    },
+    "SP0013": {
+      "ten_sp": "Trà xanh — 250 ml",
+      "so_ngay": 180
+    },
+    "SP0014": {
+      "ten_sp": "Cá mòi đóng hộp — 150 g",
+      "so_ngay": 365
+    },
+    "SP0015": {
+      "ten_sp": "Cà rốt — 200 g",
+      "so_ngay": 10
+    },
+    "SP0016": {
+      "ten_sp": "Sữa tươi không đường — 200 ml",
+      "so_ngay": 30
+    },
+    "SP0017": {
+      "ten_sp": "Bánh mì Việt Nam — gói nhỏ",
+      "so_ngay": 7
+    },
+    "SP0018": {
+      "ten_sp": "Nước cam — 250 ml",
+      "so_ngay": 180
+    },
+    "SP0019": {
+      "ten_sp": "Đậu đóng hộp — 150 g",
+      "so_ngay": 365
+    },
+    "SP0020": {
+      "ten_sp": "Cà chua — 200 g",
+      "so_ngay": 10
+    },
+    "SP0021": {
+      "ten_sp": "Sữa chua uống dâu — 200 ml",
+      "so_ngay": 30
+    },
+    "SP0022": {
+      "ten_sp": "Bánh bao — gói nhỏ",
+      "so_ngay": 7
+    },
+    "SP0023": {
+      "ten_sp": "Nước táo — 250 ml",
+      "so_ngay": 180
+    },
+    "SP0024": {
+      "ten_sp": "Ngô đóng hộp — 150 g",
+      "so_ngay": 365
+    },
+    "SP0025": {
+      "ten_sp": "Dưa leo — 200 g",
+      "so_ngay": 10
+    },
+    "SP0026": {
+      "ten_sp": "Sữa chua uống cam — 200 ml",
+      "so_ngay": 30
+    },
+    "SP0027": {
+      "ten_sp": "Bánh bông lan — gói nhỏ",
+      "so_ngay": 7
+    },
+    "SP0028": {
+      "ten_sp": "Nước dừa — 250 ml",
+      "so_ngay": 180
+    },
+    "SP0029": {
+      "ten_sp": "Thịt hộp — 150 g",
+      "so_ngay": 365
+    },
+    "SP0030": {
+      "ten_sp": "Táo — 200 g",
+      "so_ngay": 30
+    },
+    "SP0031": {
+      "ten_sp": "Sữa tươi nguyên kem — 250 ml",
+      "so_ngay": 30
+    },
+    "SP0032": {
+      "ten_sp": "Bánh mì sandwich — gói vừa",
+      "so_ngay": 7
+    },
+    "SP0033": {
+      "ten_sp": "Nước suối — 350 ml",
+      "so_ngay": 180
+    },
+    "SP0034": {
+      "ten_sp": "Cá ngừ đóng hộp — 200 g",
+      "so_ngay": 365
+    },
+    "SP0035": {
+      "ten_sp": "Rau cải — 300 g",
+      "so_ngay": 10
+    },
+    "SP0036": {
+      "ten_sp": "Sữa tươi ít đường — 250 ml",
+      "so_ngay": 30
+    },
+    "SP0037": {
+      "ten_sp": "Bánh mì Thổ Nhĩ Kỳ — gói vừa",
+      "so_ngay": 7
+    },
+    "SP0038": {
+      "ten_sp": "Trà xanh — 350 ml",
+      "so_ngay": 180
+    },
+    "SP0039": {
+      "ten_sp": "Cá mòi đóng hộp — 200 g",
+      "so_ngay": 365
+    },
+    "SP0040": {
+      "ten_sp": "Cà rốt — 300 g",
+      "so_ngay": 10
+    },
+    "SP0041": {
+      "ten_sp": "Sữa tươi không đường — 250 ml",
+      "so_ngay": 30
+    },
+    "SP0042": {
+      "ten_sp": "Bánh mì Việt Nam — gói vừa",
+      "so_ngay": 7
+    },
+    "SP0043": {
+      "ten_sp": "Nước cam — 350 ml",
+      "so_ngay": 180
+    },
+    "SP0044": {
+      "ten_sp": "Đậu đóng hộp — 200 g",
+      "so_ngay": 365
+    },
+    "SP0045": {
+      "ten_sp": "Cà chua — 300 g",
+      "so_ngay": 10
+    },
+    "SP0046": {
+      "ten_sp": "Sữa chua uống dâu — 250 ml",
+      "so_ngay": 30
+    },
+    "SP0047": {
+      "ten_sp": "Bánh bao — gói vừa",
+      "so_ngay": 7
+    },
+    "SP0048": {
+      "ten_sp": "Nước táo — 350 ml",
+      "so_ngay": 180
+    },
+    "SP0049": {
+      "ten_sp": "Ngô đóng hộp — 200 g",
+      "so_ngay": 365
+    },
+    "SP0050": {
+      "ten_sp": "Dưa leo — 300 g",
+      "so_ngay": 10
+    },
+    "SP0051": {
+      "ten_sp": "Sữa chua uống cam — 250 ml",
+      "so_ngay": 30
+    },
+    "SP0052": {
+      "ten_sp": "Bánh bông lan — gói vừa",
+      "so_ngay": 7
+    },
+    "SP0053": {
+      "ten_sp": "Nước dừa — 350 ml",
+      "so_ngay": 180
+    },
+    "SP0054": {
+      "ten_sp": "Thịt hộp — 200 g",
+      "so_ngay": 365
+    },
+    "SP0055": {
+      "ten_sp": "Táo — 300 g",
+      "so_ngay": 30
+    },
+    "SP0056": {
+      "ten_sp": "Sữa tươi nguyên kem — 500 ml",
+      "so_ngay": 30
+    },
+    "SP0057": {
+      "ten_sp": "Bánh mì sandwich — gói lớn",
+      "so_ngay": 7
+    },
+    "SP0058": {
+      "ten_sp": "Nước suối — 500 ml",
+      "so_ngay": 180
+    },
+    "SP0059": {
+      "ten_sp": "Cá ngừ đóng hộp — 250 g",
+      "so_ngay": 365
+    },
+    "SP0060": {
+      "ten_sp": "Rau cải — 500 g",
+      "so_ngay": 10
+    },
+    "SP0061": {
+      "ten_sp": "Sữa tươi ít đường — 500 ml",
+      "so_ngay": 30
+    },
+    "SP0062": {
+      "ten_sp": "Bánh mì Thổ Nhĩ Kỳ — gói lớn",
+      "so_ngay": 7
+    },
+    "SP0063": {
+      "ten_sp": "Trà xanh — 500 ml",
+      "so_ngay": 180
+    },
+    "SP0064": {
+      "ten_sp": "Cá mòi đóng hộp — 250 g",
+      "so_ngay": 365
+    },
+    "SP0065": {
+      "ten_sp": "Cà rốt — 500 g",
+      "so_ngay": 10
+    },
+    "SP0066": {
+      "ten_sp": "Sữa tươi không đường — 500 ml",
+      "so_ngay": 30
+    },
+    "SP0067": {
+      "ten_sp": "Bánh mì Việt Nam — gói lớn",
+      "so_ngay": 7
+    },
+    "SP0068": {
+      "ten_sp": "Nước cam — 500 ml",
+      "so_ngay": 180
+    },
+    "SP0069": {
+      "ten_sp": "Đậu đóng hộp — 250 g",
+      "so_ngay": 365
+    },
+    "SP0070": {
+      "ten_sp": "Cà chua — 500 g",
+      "so_ngay": 10
+    },
+    "SP0071": {
+      "ten_sp": "Sữa chua uống dâu — 500 ml",
+      "so_ngay": 30
+    },
+    "SP0072": {
+      "ten_sp": "Bánh bao — gói lớn",
+      "so_ngay": 7
+    },
+    "SP0073": {
+      "ten_sp": "Nước táo — 500 ml",
+      "so_ngay": 180
+    },
+    "SP0074": {
+      "ten_sp": "Ngô đóng hộp — 250 g",
+      "so_ngay": 365
+    },
+    "SP0075": {
+      "ten_sp": "Dưa leo — 500 g",
+      "so_ngay": 10
+    },
+    "SP0076": {
+      "ten_sp": "Sữa chua uống cam — 500 ml",
+      "so_ngay": 30
+    },
+    "SP0077": {
+      "ten_sp": "Bánh bông lan — gói lớn",
+      "so_ngay": 7
+    },
+    "SP0078": {
+      "ten_sp": "Nước dừa — 500 ml",
+      "so_ngay": 180
+    },
+    "SP0079": {
+      "ten_sp": "Thịt hộp — 250 g",
+      "so_ngay": 365
+    },
+    "SP0080": {
+      "ten_sp": "Táo — 500 g",
+      "so_ngay": 30
+    },
+    "SP0081": {
+      "ten_sp": "Sữa tươi nguyên kem — 1 lít",
+      "so_ngay": 30
+    },
+    "SP0082": {
+      "ten_sp": "Bánh mì sandwich — hộp 2 phần",
+      "so_ngay": 7
+    },
+    "SP0083": {
+      "ten_sp": "Nước suối — 1 lít",
+      "so_ngay": 180
+    },
+    "SP0084": {
+      "ten_sp": "Cá ngừ đóng hộp — 300 g",
+      "so_ngay": 365
+    },
+    "SP0085": {
+      "ten_sp": "Rau cải — 750 g",
+      "so_ngay": 10
+    },
+    "SP0086": {
+      "ten_sp": "Sữa tươi ít đường — 1 lít",
+      "so_ngay": 30
+    },
+    "SP0087": {
+      "ten_sp": "Bánh mì Thổ Nhĩ Kỳ — hộp 2 phần",
+      "so_ngay": 7
+    },
+    "SP0088": {
+      "ten_sp": "Trà xanh — 1 lít",
+      "so_ngay": 180
+    },
+    "SP0089": {
+      "ten_sp": "Cá mòi đóng hộp — 300 g",
+      "so_ngay": 365
+    },
+    "SP0090": {
+      "ten_sp": "Cà rốt — 750 g",
+      "so_ngay": 10
+    },
+    "SP0091": {
+      "ten_sp": "Sữa tươi không đường — 1 lít",
+      "so_ngay": 30
+    },
+    "SP0092": {
+      "ten_sp": "Bánh mì Việt Nam — hộp 2 phần",
+      "so_ngay": 7
+    },
+    "SP0093": {
+      "ten_sp": "Nước cam — 1 lít",
+      "so_ngay": 180
+    },
+    "SP0094": {
+      "ten_sp": "Đậu đóng hộp — 300 g",
+      "so_ngay": 365
+    },
+    "SP0095": {
+      "ten_sp": "Cà chua — 750 g",
+      "so_ngay": 10
+    },
+    "SP0096": {
+      "ten_sp": "Sữa chua uống dâu — 1 lít",
+      "so_ngay": 30
+    },
+    "SP0097": {
+      "ten_sp": "Bánh bao — hộp 2 phần",
+      "so_ngay": 7
+    },
+    "SP0098": {
+      "ten_sp": "Nước táo — 1 lít",
+      "so_ngay": 180
+    },
+    "SP0099": {
+      "ten_sp": "Ngô đóng hộp — 300 g",
+      "so_ngay": 365
+    },
+    "SP0100": {
+      "ten_sp": "Dưa leo — 750 g",
+      "so_ngay": 10
+    },
+    "SP0101": {
+      "ten_sp": "Sữa chua uống cam — 1 lít",
+      "so_ngay": 30
+    },
+    "SP0102": {
+      "ten_sp": "Bánh bông lan — hộp 2 phần",
+      "so_ngay": 7
+    },
+    "SP0103": {
+      "ten_sp": "Nước dừa — 1 lít",
+      "so_ngay": 180
+    },
+    "SP0104": {
+      "ten_sp": "Thịt hộp — 300 g",
+      "so_ngay": 365
+    },
+    "SP0105": {
+      "ten_sp": "Táo — 750 g",
+      "so_ngay": 30
+    },
+    "SP0106": {
+      "ten_sp": "Sữa tươi nguyên kem — hộp 4 chai",
+      "so_ngay": 30
+    },
+    "SP0107": {
+      "ten_sp": "Bánh mì sandwich — hộp 4 phần",
+      "so_ngay": 7
+    },
+    "SP0108": {
+      "ten_sp": "Nước suối — 1,5 lít",
+      "so_ngay": 180
+    },
+    "SP0109": {
+      "ten_sp": "Cá ngừ đóng hộp — 400 g",
+      "so_ngay": 365
+    },
+    "SP0110": {
+      "ten_sp": "Rau cải — 1 kg",
+      "so_ngay": 10
+    },
+    "SP0111": {
+      "ten_sp": "Sữa tươi ít đường — hộp 4 chai",
+      "so_ngay": 30
+    },
+    "SP0112": {
+      "ten_sp": "Bánh mì Thổ Nhĩ Kỳ — hộp 4 phần",
+      "so_ngay": 7
+    },
+    "SP0113": {
+      "ten_sp": "Trà xanh — 1,5 lít",
+      "so_ngay": 180
+    },
+    "SP0114": {
+      "ten_sp": "Cá mòi đóng hộp — 400 g",
+      "so_ngay": 365
+    },
+    "SP0115": {
+      "ten_sp": "Cà rốt — 1 kg",
+      "so_ngay": 10
+    },
+    "SP0116": {
+      "ten_sp": "Sữa tươi không đường — hộp 4 chai",
+      "so_ngay": 30
+    },
+    "SP0117": {
+      "ten_sp": "Bánh mì Việt Nam — hộp 4 phần",
+      "so_ngay": 7
+    },
+    "SP0118": {
+      "ten_sp": "Nước cam — 1,5 lít",
+      "so_ngay": 180
+    },
+    "SP0119": {
+      "ten_sp": "Đậu đóng hộp — 400 g",
+      "so_ngay": 365
+    },
+    "SP0120": {
+      "ten_sp": "Cà chua — 1 kg",
+      "so_ngay": 10
+    }
+  }
+}
